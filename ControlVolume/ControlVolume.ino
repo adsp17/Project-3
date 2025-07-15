@@ -1,3 +1,8 @@
+// Please support Youtube Channel ADSP
+// https://www.youtube.com/channel/UCaFqpdENcVNK2Zn4qY-vOzQ
+// VIDEO TUTOR: https://youtu.be/W-hMcpSHhUg
+// GITHUB: https://github.com/adsp17/Project-3
+
 #include <HID-Project.h>  // Library HID Project: https://github.com/NicoHood/HID
 #include <HID-Settings.h>
 
